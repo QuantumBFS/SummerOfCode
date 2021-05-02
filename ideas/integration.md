@@ -2,6 +2,8 @@
 
 *medium*
 
+Student should have basic knowledge on quantum computing and Yao.
+
 ## PastaQ
 
 integrate [https://github.com/GTorlai/PastaQ.jl](PastaQ) with Yao ([PastaQ/#120](https://github.com/GTorlai/PastaQ.jl/issues/120)).

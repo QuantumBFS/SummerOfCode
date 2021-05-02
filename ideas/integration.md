@@ -14,4 +14,4 @@ integrate [https://github.com/JuliaQX/QXTools.jl](QXTools) with Yao
 
 ## QuantumClifford
 
-integarte with [https://github.com/Krastanov/QuantumClifford.jl](QuantumClifford) with Yao.
+integarte [https://github.com/Krastanov/QuantumClifford.jl](QuantumClifford) with Yao.

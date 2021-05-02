@@ -2,6 +2,8 @@
 
 *easy*
 
+Student should have basic skills on HTML/CSS/Javascript.
+
 ## Improve whole website banner
 
 Documenter currently do not support custom banner, implement this feature request
